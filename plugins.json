@@ -1,6 +1,12 @@
 [
   {
+    "name": "Sample Plugin",
+    "entry": "./plugins/sample-plugin/plugin.js"
+  }
+  ,
+  {
     "name": "Kaveesha Plugin",
     "entry": "./plugins/kaveesha-plugin/plugin.js"
   }
+
 ]
